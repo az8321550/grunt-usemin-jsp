@@ -1,6 +1,6 @@
 {
   "name": "grunt-usemin-jsp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "nobody"
@@ -14,6 +14,10 @@
     "css",
     "optimize"
   ],
+  "homepage": "https://github.com/az8321550/grunt-usemin-jsp",
+  "bugs": {
+    "url": "https://github.com/az8321550/grunt-usemin-jsp/issues"
+  },
   "dependencies": {
     "chalk": "~0.5.1",
     "debug": "~2.1.0",
